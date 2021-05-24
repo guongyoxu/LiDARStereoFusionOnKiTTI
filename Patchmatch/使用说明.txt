@@ -1,0 +1,10 @@
+代码运行平台：Windows 7/10，Visual Studio 2015&2019 
+打开工程即可直接编译运行
+
+此份代码是功能完整的。要获取最新的源码（可能会有一些小的BUG修复类更新，请在此处下载）：
+https://github.com/ethan-li-coding/PatchMatchStereo
+
+作者博客地址：
+https://ethanli.blog.csdn.net/
+
+博客内有代码教学，以及其他立体匹配算法的理论科普和代码实战教学，有任何问题请私信博主，或加博主微信交流（微信在博客主页左侧栏）
